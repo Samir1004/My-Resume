@@ -39,7 +39,7 @@
 
 ### Mini Project – *Multimedia Website* (2023)
 - Created a simple site using *HTML*, *CSS*, *Javascript*.
-- Enabled to download bolywood movies, songs and picturs as per your choise.
+- Enabled to download movies, songs and picturs as per your choise.
 
 ---
 
