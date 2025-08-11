@@ -30,14 +30,9 @@
 ## 💼 Internships
 
 ### 1STOP, Bengaluru – *Cyber Security Intern* (Jun–Aug 2025)
-- Built a customer support chatbot using **Python** and **GPT**
-- Applied **NLP techniques** to ensure relevant responses
+- Working in a project name - *Android Penetration Tesing*.
+- Applied for android systems safe from the cyber criminals(Hackers). 
   
-
-### FitWatch – *Social Media Marketing Intern* (May 2022)
-- Designed and posted 30+ Instagram creatives
-- Grew follower base from 10k to 15k in one month
-
 ---
 
 ## 💡 Projects
@@ -50,15 +45,15 @@
 
 ## 🛠️ Skills
 
-- **Languages & Tools**: Java, Python, SQL, HTML, MS Excel
-- **Certifications**: Generative AI, Data Analysis (Coursera), Core Java Programming
+- **Languages & Tools**: Java, Python, SQL, HTML, CSS, Javascript, Basics of Linux
+- **Certifications**: Generative AI(Linkedin), Data Analysis (Coursera), Java Programming(Linkedin).
 - **Languages Spoken**: English, Hindi, Bengali
   
 ---
 
 ## 🌱 Extracurricular
 
-- 🧗 Trekking enthusiast; visited Mahakumbh Mela 2025 – Allahabad, Varanasi, Ayodhya
+- 🧗 Trekking enthusiast: Visited Mahakumbh Mela 2025 – Allahabad, Varanasi, Ayodhya
 - 🎨 Hobbies: Cricket, Photography, Drawing, Traveling
 
 ---
