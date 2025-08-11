@@ -14,7 +14,7 @@
 
 | Year  | Degree/Examination         | Institution                                      | Score     |
 |-------|----------------------------|--------------------------------------------------|-----------|
-| 2026  | B.Tech in Computer Science | College of Engineering & Management, Kolaghat    | 7.35 CGPA |
+| 2026  | B.Tech in CSE              | College of Engineering & Management, Kolaghat    | 7.35 CGPA |
 | 2022  | Class XII (WBCHSE)         | Mahammadpur S.S.S. Niketan                       | 90.6%     |
 | 2020  | Class X (WBBSE)            | Mahammadpur S.S.S. Niketan                       | 89%       |
 
@@ -30,7 +30,7 @@
 ## 💼 Internships
 
 ### 1STOP, Bengaluru – *Cyber Security Intern* (Jun–Aug 2025)
-- Working in a project name - *Android Penetration Tesing*.
+- Working in a project name - *Android Application Penetration Testing*.
 - Applied for android systems safe from the cyber criminals(Hackers). 
   
 ---
