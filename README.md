@@ -1,0 +1,67 @@
+# RESUME - SAMIR GOSWAMI
+
+👨‍💻 **Computer Engineer | Passionate Developer | Tech Enthusiast**
+
+📍 Bhabanipur, Nandakumar, West Bengal  
+📞 +91-7548957935  
+📧 [samirgoswami1004@gmail.com](mailto:samirgoswami1004@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/samir-goswami-942689259/)  
+💻 [GitHub](https://github.com/samir1004)  
+
+---
+
+## 🎓 Academic Qualifications
+
+| Year  | Degree/Examination         | Institution                                      | Score     |
+|-------|----------------------------|--------------------------------------------------|-----------|
+| 2026  | B.Tech in Computer Science | College of Engineering & Management, Kolaghat    | 7.35 CGPA |
+| 2022  | Class XII (WBCHSE)         | Mahammadpur S.S.S. Niketan                       | 90.6%     |
+| 2020  | Class X (WBBSE)            | Mahammadpur S.S.S. Niketan                       | 89%       |
+
+---
+
+## 🏆 Achievements
+
+- 🛰️ Participation Certificate in ISRO’s Chandrayaan-3 Quiz 2023 – MyGov
+
+
+---
+
+## 💼 Internships
+
+### 1STOP, Bengaluru – *Cyber Security Intern* (Jun–Aug 2025)
+- Built a customer support chatbot using **Python** and **GPT**
+- Applied **NLP techniques** to ensure relevant responses
+  
+
+### FitWatch – *Social Media Marketing Intern* (May 2022)
+- Designed and posted 30+ Instagram creatives
+- Grew follower base from 10k to 15k in one month
+
+---
+
+## 💡 Projects
+
+### Mini Project – *Multimedia Website* (2023)
+- Created a simple site using *HTMl*,*CSS*,*Javascript*.
+- Enabled to download bolywood movies and songs and picturs.
+
+---
+
+## 🛠️ Skills
+
+- **Languages & Tools**: Java, Python, SQL, HTML, MS Excel
+- **Certifications**: Generative AI, Data Analysis (Coursera), Core Java Programming
+- **Languages Spoken**: English, Hindi, Bengali
+  
+---
+
+## 🌱 Extracurricular
+
+- 🧗 Trekking enthusiast; visited Mahakumbh Mela 2025 – Allahabad, Varanasi, Ayodhya
+- 🎨 Hobbies: Cricket, Photography, Drawing, Traveling
+
+---
+
+_This resume was originally built using a template from [LearnTheta](https://www.learntheta.com)._
+
