@@ -14,7 +14,7 @@
 
 | Year  | Degree/Examination         | Institution                                      | Score     |
 |-------|----------------------------|--------------------------------------------------|-----------|
-| 2026  | B.Tech in CSE              | College of Engineering & Management, Kolaghat    | 7.35 CGPA |
+| 2026  | B.Tech in CSE              | College of Engineering & Management, Kolaghat    | 7.36 CGPA |
 | 2022  | Class XII (WBCHSE)         | Mahammadpur S.S.S. Niketan                       | 90.60%     |
 | 2020  | Class X (WBBSE)            | Mahammadpur S.S.S. Niketan                       | 89.29%       |
 
